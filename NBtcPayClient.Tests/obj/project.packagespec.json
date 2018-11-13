@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\Projects\\NBtcPayClient\\NBtcPayClient.Tests\\NBtcPayClient.Tests.csproj",
+    "projectName": "NBtcPayClient.Tests",
+    "projectPath": "D:\\Projects\\NBtcPayClient\\NBtcPayClient.Tests\\NBtcPayClient.Tests.csproj",
+    "outputPath": "D:\\Projects\\NBtcPayClient\\NBtcPayClient.Tests\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "D:\\Projects\\NBtcPayClient\\NBtcPayClient\\NBtcPayClient.csproj": {
+            "projectPath": "D:\\Projects\\NBtcPayClient\\NBtcPayClient\\NBtcPayClient.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.8.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

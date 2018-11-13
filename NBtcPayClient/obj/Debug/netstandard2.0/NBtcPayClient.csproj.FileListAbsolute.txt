@@ -1,0 +1,9 @@
+D:\Projects\NBtcPayClient\NBtcPayClient\bin\Debug\netstandard2.0\NBtcPayClient.deps.json
+D:\Projects\NBtcPayClient\NBtcPayClient\bin\Debug\netstandard2.0\NBtcPayClient.dll
+D:\Projects\NBtcPayClient\NBtcPayClient\bin\Debug\netstandard2.0\NBtcPayClient.pdb
+D:\Projects\NBtcPayClient\NBtcPayClient\obj\Debug\netstandard2.0\NBtcPayClient.csprojAssemblyReference.cache
+D:\Projects\NBtcPayClient\NBtcPayClient\obj\Debug\netstandard2.0\NBtcPayClient.csproj.CoreCompileInputs.cache
+D:\Projects\NBtcPayClient\NBtcPayClient\obj\Debug\netstandard2.0\NBtcPayClient.AssemblyInfoInputs.cache
+D:\Projects\NBtcPayClient\NBtcPayClient\obj\Debug\netstandard2.0\NBtcPayClient.AssemblyInfo.cs
+D:\Projects\NBtcPayClient\NBtcPayClient\obj\Debug\netstandard2.0\NBtcPayClient.dll
+D:\Projects\NBtcPayClient\NBtcPayClient\obj\Debug\netstandard2.0\NBtcPayClient.pdb
